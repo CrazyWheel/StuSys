@@ -1,6 +1,6 @@
 StuSys
 
-A siimple student info management system.
+A simple student info management system.
 
 山东理工大学学生综合素质测评系统共分为五个主要功能：
 1. 班级信息初始化：
